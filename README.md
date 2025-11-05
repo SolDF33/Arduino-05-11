@@ -41,7 +41,9 @@ Este proyecto implementa una Red Neuronal Artificial (RNA) entrenada para contro
 * **Evidencia de Funcionamiento:**
     * [Tu URL de Wokwi] **<-- ¡Pega aquí el enlace que guardaste!**
 * **Pruebas Exitosas:** Se verificó en el Monitor Serial que la `Salida5 (ALARMA)` se activa con `1`
-  
+
+https://docs.google.com/document/d/13wjfu00KGNtyroRFjQOhqi9ggJ4L1zkagk3JyCbJy08/edit?usp=sharing
+
 https://colab.research.google.com/drive/1vKgDX4eM2bDklK4d9r7FZgX7Yz7hGDGt?usp=sharing
 
 https://wokwi.com/projects/446825799004604417
